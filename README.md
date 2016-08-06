@@ -4,6 +4,7 @@ Create a Loading Screen to preloader images and content for you website .
 
 ### Live Demo
  - [Percentage preloader Jquery ](http://codepen.io/sifulislam/full/jAZXkz/) 
+ - <a href="http://codepen.io/sifulislam/full/jAZXkz/" target="_blank">example</a>
 
 ### Installation
 
