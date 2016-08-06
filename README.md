@@ -2,6 +2,9 @@
 A percentage preloader with jquery. 
 Create a Loading Screen to preloader images and content for you website .
 
+### Live Demo
+ - [Percentage preloader Jquery ](http://codepen.io/sifulislam/full/jAZXkz/) 
+
 ### Installation
 
 ```bash
